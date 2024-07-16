@@ -3,6 +3,7 @@
 | Email Format | http://email-format.com |
 | Email Permutator | http://metricsparrow.com/toolkit/email-permutator |
 | EmailHippo | https://tools.verifyemailaddress.io |
+| Predicta Search | https://www.predictasearch.com |
 | Epieos | https://epieos.com |
 | Ghostproject | https://ghostproject.fr |
 | Have I Been Pwned | https://haveibeenpwned.com | 
