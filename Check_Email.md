@@ -1,20 +1,25 @@
 | Name | URLs | 
 |:---:|:---:|
+| Breachdirectory | https://breachdirectory.org |
+| Dehashed | https://dehashed.com |
 | Email Format | http://email-format.com |
-| Email Permutator | http://metricsparrow.com/toolkit/email-permutator |
 | EmailHippo | https://tools.verifyemailaddress.io |
-| Predicta Search | https://www.predictasearch.com |
 | Epieos | https://epieos.com |
-| Ghostproject | https://ghostproject.fr |
+| Have I Been Sold | https://haveibeensold.app |
 | Have I Been Pwned | https://haveibeenpwned.com | 
 | Hunter | https://hunter.io | 
-| Illicit | https://search.illicit.services/ |
 | Intelx | https://intelx.io |
+| LeakCheck | https://leakcheck.io |
+| Leak - Lookup | https://leak-lookup.com |
+| Leakpeek | https://leakpeek.com |
 | Mxtoolbox | https://mxtoolbox.com/EmailHeaders.aspx |
 | Peepmail | http://www.samy.pl/peepmail |
+| Predicta Search | https://www.predictasearch.com |
+| Scattered Secrets | https://scatteredsecrets.com |
 | Snov | https://snov.io |
+| Snusbase | https://snusbase.com |
 | ThatsThem | https://thatsthem.com/reverse-email-lookup |
 | Findemails | https://www.findemails.com/ |
-| VoilaNorbert | https://www.voilanorbert.com | - Find anyone's contact information for lead research or talent acquisition.
+| VoilaNorbert | https://www.voilanorbert.com | 
 | Whoreadme | http://whoreadme.com/ |
 | Yopmail | http://www.yopmail.com |
