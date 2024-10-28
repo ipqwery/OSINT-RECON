@@ -14,6 +14,7 @@
 | PhoneInfoga | https://github.com/sundowndev/PhoneInfoga |
 | Phonevalidator | https://www.phonevalidator.com/index.aspx |
 | Sync.me | https://sync.me/ |
+| Telegram | https://t.me/+PHONE | 
 | Thatsthem reverse phone | https://thatsthem.com/reverse-phone-lookup |
 | Truecaller | https://www.truecaller.com/ |
 | Opencnam | https://www.opencnam.com |
@@ -23,5 +24,6 @@
 | Saynoto0870 | https://www.saynoto0870.com/search.php |
 | Ukpayphone | https://www.ukpayphone.com/search.php?reset=1 |
 | Ukphonebook | https://www.ukphonebook.com/ |
+| Whatsapp | https://wa.me/+PHONE |
 | Whocalledme | https://www.whocalledme.com/choose-your-country |
 | World Telephone Numbering Guide  | http://www.wtng.info/index.html |
