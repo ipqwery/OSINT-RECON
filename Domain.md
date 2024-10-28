@@ -51,6 +51,9 @@
 | StatsCrop | http://www.statscrop.com |
 | Squatm3gator | https://github.com/david3107/squatm3gator |
 | URLVoid | http://www.urlvoid.com |
+| URLquery | https://urlquery.net |
+| URLscan | https://urlscan.io |
+| Virustotal | https://www.virustotal.com |
 | WebMeUp | http://webmeup.com |
 | Website Informer | http://website.informer.com |
 | WhatIsMyIPAddress | http://whatismyipaddress.com |
