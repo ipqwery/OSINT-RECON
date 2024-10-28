@@ -1,5 +1,6 @@
 | Name | URLs | 
 |:---:|:---:|
+| Cent | https://github.com/xm1k3/cent |
 | Belati | https://github.com/aancw/Belati |
 | Datasploit | https://github.com/DataSploit/datasploit |
 | DeepdarkCTI | https://github.com/fastfire/deepdarkCTI/ |
