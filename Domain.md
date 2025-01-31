@@ -26,6 +26,7 @@
 | IP 2 Geolocation | http://ip2geolocation.com |
 | IP 2 Location | http://www.ip2location.com/demo.aspx |
 | IPFingerprints | http://www.ipfingerprints.com |
+| IPQuery | http://ipquery.io |
 | IPVoid | http://www.ipvoid.com |
 | IntelliTamper | http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml |
 | Kloth | http://www.kloth.net/services |
